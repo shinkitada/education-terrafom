@@ -40,9 +40,10 @@ cd terraform-aws-education
 ```
 
 ### 2. 変数ファイルを作成
-`terraform.tfvars.example` をコピーして `terraform.tfvars` を作成し、必要な値を設定します。
+`terraform.tfvars.example` をコピー、またはリネームして `terraform.tfvars` を作成し、必要な値を設定します。
 ```bash
 cp terraform.tfvars.example terraform.tfvars
+mv terraform.tfvars.example terraform.tfvars
 ```
 
 ### 3. Terraformの初期化
