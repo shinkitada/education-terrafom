@@ -18,12 +18,9 @@
 ├── .terraform.lock.hcl       # Terraformのプロバイダーのロックファイル
 ├── ec2.tf                    # EC2インスタンスと関連リソースの定義
 ├── provider.tf               # プロバイダーの設定
-├── terraform.tfstate         # Terraformの状態ファイル（自動生成）
-├── terraform.tfstate.backup  # Terraformの状態ファイルのバックアップ（自動生成）
 ├── terraform.tfvars.example  # 変数の例ファイル
 ├── variables.tf              # 変数の定義
-├── vpc.tf                    # VPCとネットワーク関連リソースの定義
-└── .terraform/               # Terraformのキャッシュディレクトリ（自動生成）
+└── vpc.tf                    # VPCとネットワーク関連リソースの定義
 ```
 
 ## 必要条件
