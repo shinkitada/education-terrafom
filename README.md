@@ -11,6 +11,10 @@
 - セキュリティグループ
 - SSHキーの生成
 
+## 構成図
+![image](https://github.com/user-attachments/assets/2c703f19-a485-4690-a69c-765da675aed6)
+
+
 ## フォルダ構成
 ```
 .
